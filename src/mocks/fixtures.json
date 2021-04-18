@@ -1,0 +1,13 @@
+{
+  "/v2/store/inventory": {
+    "get": {
+      "sold": 11,
+      "string": 255,
+      "Busy": 1,
+      "pending": 1,
+      "available": 718,
+      "avalible": 1,
+      "processing": 9
+    }
+  }
+}
